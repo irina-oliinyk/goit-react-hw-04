@@ -1,0 +1,9 @@
+.galleryImg {
+  width: calc(100%-4 * 16px);
+  height: 100%;
+}
+
+.itemImg {
+  width: 320px;
+  height: 220px;
+}
